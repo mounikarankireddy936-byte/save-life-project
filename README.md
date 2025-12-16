@@ -1,4 +1,4 @@
-# Save Life – Emergency Assistance Web Application
+# Save Life 
 
 Save Life is a Spring Boot based web application designed to help people during emergency situations by enabling quick access to donors, emergency requests, and essential information.
 
